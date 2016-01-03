@@ -36,8 +36,13 @@ domain {
 </head>
 
 <body>
-<fscom>FOR SALE<br><domain>name.com</domain></fscom ><br><br>
+<<<<<<< HEAD
+<fscom>FOR SALE - 1/2 OFF<br><domain>name.com</domain></fscom ><br><br>
 <fsnet>FOR SALE<br><domain>name.net</domain></fsnet><br><br>
+=======
+<fscom>FOR SALE<br><domain>name.com</domain></fscom ><br><br>
+<fsnet>FOR SALE - 1/4 OFF<br><domain>name.net</domain></fsnet><br><br>
+>>>>>>> origin/gh-pages
 <fsorg>FOR SALE<br><domain>name.org</domain></fsorg>
 
 </body>
